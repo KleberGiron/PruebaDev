@@ -1,0 +1,193 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\PruebaTecnicaDev\\Api_Covid\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DC9343E0-C6D4-4BEB-9762-200C5D9F46F7}|Api_Covid\\Api_Covid.csproj|d:\\pruebatecnicadev\\api_covid\\api_covid\\mappingconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC9343E0-C6D4-4BEB-9762-200C5D9F46F7}|Api_Covid\\Api_Covid.csproj|solutionrelative:api_covid\\mappingconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC9343E0-C6D4-4BEB-9762-200C5D9F46F7}|Api_Covid\\Api_Covid.csproj|d:\\pruebatecnicadev\\api_covid\\api_covid\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC9343E0-C6D4-4BEB-9762-200C5D9F46F7}|Api_Covid\\Api_Covid.csproj|solutionrelative:api_covid\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC9343E0-C6D4-4BEB-9762-200C5D9F46F7}|Api_Covid\\Api_Covid.csproj|d:\\pruebatecnicadev\\api_covid\\api_covid\\controllers\\covidcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC9343E0-C6D4-4BEB-9762-200C5D9F46F7}|Api_Covid\\Api_Covid.csproj|solutionrelative:api_covid\\controllers\\covidcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC9343E0-C6D4-4BEB-9762-200C5D9F46F7}|Api_Covid\\Api_Covid.csproj|d:\\pruebatecnicadev\\api_covid\\api_covid\\repository\\repositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC9343E0-C6D4-4BEB-9762-200C5D9F46F7}|Api_Covid\\Api_Covid.csproj|solutionrelative:api_covid\\repository\\repositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC9343E0-C6D4-4BEB-9762-200C5D9F46F7}|Api_Covid\\Api_Covid.csproj|d:\\pruebatecnicadev\\api_covid\\api_covid\\repository\\empleadorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC9343E0-C6D4-4BEB-9762-200C5D9F46F7}|Api_Covid\\Api_Covid.csproj|solutionrelative:api_covid\\repository\\empleadorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC9343E0-C6D4-4BEB-9762-200C5D9F46F7}|Api_Covid\\Api_Covid.csproj|d:\\pruebatecnicadev\\api_covid\\api_covid\\repository\\irepository\\iempleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC9343E0-C6D4-4BEB-9762-200C5D9F46F7}|Api_Covid\\Api_Covid.csproj|solutionrelative:api_covid\\repository\\irepository\\iempleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC9343E0-C6D4-4BEB-9762-200C5D9F46F7}|Api_Covid\\Api_Covid.csproj|d:\\pruebatecnicadev\\api_covid\\api_covid\\repository\\irepository\\irepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC9343E0-C6D4-4BEB-9762-200C5D9F46F7}|Api_Covid\\Api_Covid.csproj|solutionrelative:api_covid\\repository\\irepository\\irepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC9343E0-C6D4-4BEB-9762-200C5D9F46F7}|Api_Covid\\Api_Covid.csproj|d:\\pruebatecnicadev\\api_covid\\api_covid\\models\\dto\\empleadosupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC9343E0-C6D4-4BEB-9762-200C5D9F46F7}|Api_Covid\\Api_Covid.csproj|solutionrelative:api_covid\\models\\dto\\empleadosupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC9343E0-C6D4-4BEB-9762-200C5D9F46F7}|Api_Covid\\Api_Covid.csproj|d:\\pruebatecnicadev\\api_covid\\api_covid\\models\\dto\\empleadoscreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC9343E0-C6D4-4BEB-9762-200C5D9F46F7}|Api_Covid\\Api_Covid.csproj|solutionrelative:api_covid\\models\\dto\\empleadoscreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MappingConfig.cs",
+              "DocumentMoniker": "D:\\PruebaTecnicaDev\\Api_Covid\\Api_Covid\\MappingConfig.cs",
+              "RelativeDocumentMoniker": "Api_Covid\\MappingConfig.cs",
+              "ToolTip": "D:\\PruebaTecnicaDev\\Api_Covid\\Api_Covid\\MappingConfig.cs",
+              "RelativeToolTip": "Api_Covid\\MappingConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T15:13:37.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Repositorio.cs",
+              "DocumentMoniker": "D:\\PruebaTecnicaDev\\Api_Covid\\Api_Covid\\Repository\\Repositorio.cs",
+              "RelativeDocumentMoniker": "Api_Covid\\Repository\\Repositorio.cs",
+              "ToolTip": "D:\\PruebaTecnicaDev\\Api_Covid\\Api_Covid\\Repository\\Repositorio.cs",
+              "RelativeToolTip": "Api_Covid\\Repository\\Repositorio.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEUAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T14:03:59.986Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmpleadoRepositorio.cs",
+              "DocumentMoniker": "D:\\PruebaTecnicaDev\\Api_Covid\\Api_Covid\\Repository\\EmpleadoRepositorio.cs",
+              "RelativeDocumentMoniker": "Api_Covid\\Repository\\EmpleadoRepositorio.cs",
+              "ToolTip": "D:\\PruebaTecnicaDev\\Api_Covid\\Api_Covid\\Repository\\EmpleadoRepositorio.cs",
+              "RelativeToolTip": "Api_Covid\\Repository\\EmpleadoRepositorio.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T15:02:19.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\PruebaTecnicaDev\\Api_Covid\\Api_Covid\\Program.cs",
+              "RelativeDocumentMoniker": "Api_Covid\\Program.cs",
+              "ToolTip": "D:\\PruebaTecnicaDev\\Api_Covid\\Api_Covid\\Program.cs",
+              "RelativeToolTip": "Api_Covid\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABYAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T14:52:55.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CovidController.cs",
+              "DocumentMoniker": "D:\\PruebaTecnicaDev\\Api_Covid\\Api_Covid\\Controllers\\CovidController.cs",
+              "RelativeDocumentMoniker": "Api_Covid\\Controllers\\CovidController.cs",
+              "ToolTip": "D:\\PruebaTecnicaDev\\Api_Covid\\Api_Covid\\Controllers\\CovidController.cs",
+              "RelativeToolTip": "Api_Covid\\Controllers\\CovidController.cs",
+              "ViewState": "AQIAAO8AAAAAAAAAAAAmwAoBAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T15:27:08.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EmpleadosUpdateDto.cs",
+              "DocumentMoniker": "D:\\PruebaTecnicaDev\\Api_Covid\\Api_Covid\\Models\\Dto\\EmpleadosUpdateDto.cs",
+              "RelativeDocumentMoniker": "Api_Covid\\Models\\Dto\\EmpleadosUpdateDto.cs",
+              "ToolTip": "D:\\PruebaTecnicaDev\\Api_Covid\\Api_Covid\\Models\\Dto\\EmpleadosUpdateDto.cs",
+              "RelativeToolTip": "Api_Covid\\Models\\Dto\\EmpleadosUpdateDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T06:58:22.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IRepositorio.cs",
+              "DocumentMoniker": "D:\\PruebaTecnicaDev\\Api_Covid\\Api_Covid\\Repository\\IRepository\\IRepositorio.cs",
+              "RelativeDocumentMoniker": "Api_Covid\\Repository\\IRepository\\IRepositorio.cs",
+              "ToolTip": "D:\\PruebaTecnicaDev\\Api_Covid\\Api_Covid\\Repository\\IRepository\\IRepositorio.cs",
+              "RelativeToolTip": "Api_Covid\\Repository\\IRepository\\IRepositorio.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T06:28:19.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IEmpleado.cs",
+              "DocumentMoniker": "D:\\PruebaTecnicaDev\\Api_Covid\\Api_Covid\\Repository\\IRepository\\IEmpleado.cs",
+              "RelativeDocumentMoniker": "Api_Covid\\Repository\\IRepository\\IEmpleado.cs",
+              "ToolTip": "D:\\PruebaTecnicaDev\\Api_Covid\\Api_Covid\\Repository\\IRepository\\IEmpleado.cs",
+              "RelativeToolTip": "Api_Covid\\Repository\\IRepository\\IEmpleado.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T06:28:09.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EmpleadosCreateDto.cs",
+              "DocumentMoniker": "D:\\PruebaTecnicaDev\\Api_Covid\\Api_Covid\\Models\\Dto\\EmpleadosCreateDto.cs",
+              "RelativeDocumentMoniker": "Api_Covid\\Models\\Dto\\EmpleadosCreateDto.cs",
+              "ToolTip": "D:\\PruebaTecnicaDev\\Api_Covid\\Api_Covid\\Models\\Dto\\EmpleadosCreateDto.cs",
+              "RelativeToolTip": "Api_Covid\\Models\\Dto\\EmpleadosCreateDto.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAxwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T06:18:18.434Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
